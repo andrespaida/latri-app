@@ -67,6 +67,9 @@ La app cuenta con dos pantallas principales:
 LaTriApp/
 │
 ├── assets/
+    ├── screenshots/        ← capturas de pantalla
+    │  ├── home.png  
+    │  ├── splash.png 
 │   ├── escudo.png          ← Logo oficial de La Tri
 │   ├── adaptive-icon.png
 │   ├── favicon.png
@@ -195,12 +198,12 @@ Los colores utilizados en la app están basados en los colores oficiales de la S
 |---|---|---|---|
 | 1 | 1 | Hernán Galíndez | Portero |
 | 2 | 3 | Piero Hincapié | Defensa |
-| 3 | 4 | Byron Castillo | Defensa |
+| 3 | 4 | Joel Ordóñez | Defensa |
 | 4 | 10 | Moisés Caicedo | Mediocampista |
 | 5 | 8 | Kendry Páez | Mediocampista |
-| 6 | 11 | Ángel Mena | Delantero |
+| 6 | 11 | Gonzalo Plata | Delantero |
 | 7 | 13 | Enner Valencia | Delantero |
-| 8 | 7 | Jeremy Sarmiento | Delantero |
+| 8 | 7 | John Yeboah | Delantero |
 
 ---
 
